@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @itscole05
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning Enterprise Database Management
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me 
+  You can follow me through my social accounts
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+itscole05/itscole05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
