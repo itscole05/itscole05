@@ -2,7 +2,7 @@
 - 👀 I’m interested in playing games and reading books hehehe
 - 🌱 I’m currently learning Enterprise Database Management
 - 📫 How to reach me 
-  You can follow me through my social accounts:
+- You can follow me through my social account:
 IG: @itscole_05
 - ⚡ Fun fact: I could finish a book in one sitting.
 
